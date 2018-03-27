@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+ The template of website for offline working. 
 
 # Project Goals
 
